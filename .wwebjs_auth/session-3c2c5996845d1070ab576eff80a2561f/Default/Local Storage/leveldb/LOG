@@ -1,0 +1,18 @@
+2026/02/19-12:23:27.150 4b40 Reusing MANIFEST C:\wamp64\www\ai1\whatsapp-bridge\.wwebjs_auth\session-3c2c5996845d1070ab576eff80a2561f\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/19-12:23:27.160 4b40 Recovering log #12
+2026/02/19-12:23:27.166 4b40 Reusing old log C:\wamp64\www\ai1\whatsapp-bridge\.wwebjs_auth\session-3c2c5996845d1070ab576eff80a2561f\Default\Local Storage\leveldb/000012.log 
+2026/02/19-12:43:35.979 6478 Level-0 table #16: started
+2026/02/19-12:43:35.986 6478 Level-0 table #16: 13378 bytes OK
+2026/02/19-12:43:35.991 6478 Delete type=0 #12
+2026/02/19-14:09:40.081 6478 Level-0 table #18: started
+2026/02/19-14:09:40.093 6478 Level-0 table #18: 13049 bytes OK
+2026/02/19-14:09:40.098 6478 Delete type=0 #15
+2026/02/19-14:09:40.099 6478 Compacting 4@0 + 1@1 files
+2026/02/19-14:09:40.108 6478 Generated table #19@0: 142 keys, 10856 bytes
+2026/02/19-14:09:40.108 6478 Compacted 4@0 + 1@1 files => 10856 bytes
+2026/02/19-14:09:40.111 6478 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/19-14:09:40.112 6478 Delete type=2 #8
+2026/02/19-14:09:40.112 6478 Delete type=2 #11
+2026/02/19-14:09:40.112 6478 Delete type=2 #13
+2026/02/19-14:09:40.112 6478 Delete type=2 #16
+2026/02/19-14:09:40.112 6478 Delete type=2 #18

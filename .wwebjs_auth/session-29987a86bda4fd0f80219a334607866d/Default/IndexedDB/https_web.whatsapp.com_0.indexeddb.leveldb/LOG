@@ -1,0 +1,62 @@
+2026/02/08-10:21:03.929 4094 Reusing MANIFEST C:\Users\eddin\Desktop\snopdesks\whatsapp-bridge\.wwebjs_auth\session-29987a86bda4fd0f80219a334607866d\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/08-10:21:03.929 4094 Recovering log #3
+2026/02/08-10:21:03.930 4094 Reusing old log C:\Users\eddin\Desktop\snopdesks\whatsapp-bridge\.wwebjs_auth\session-29987a86bda4fd0f80219a334607866d\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
+2026/02/08-10:21:03.936 4094 Level-0 table #5: started
+2026/02/08-10:21:03.939 4094 Level-0 table #5: 18219 bytes OK
+2026/02/08-10:21:03.941 4094 Delete type=0 #3
+2026/02/08-10:21:03.941 4094 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/02/08-10:21:31.259 4094 Level-0 table #7: started
+2026/02/08-10:21:31.315 4094 Level-0 table #7: 1017308 bytes OK
+2026/02/08-10:21:31.317 4094 Delete type=0 #4
+2026/02/08-10:21:46.237 5118 Level-0 table #9: started
+2026/02/08-10:21:46.342 5118 Level-0 table #9: 1126589 bytes OK
+2026/02/08-10:21:46.344 5118 Delete type=0 #6
+2026/02/08-10:21:46.355 3364 Compacting 1@0 + 1@1 files
+2026/02/08-10:21:46.473 3364 Generated table #10@0: 55450 keys, 1365021 bytes
+2026/02/08-10:21:46.473 3364 Compacted 1@0 + 1@1 files => 1365021 bytes
+2026/02/08-10:21:46.474 3364 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/08-10:21:46.475 3364 Delete type=2 #7
+2026/02/08-10:21:46.475 3364 Delete type=2 #9
+2026/02/08-10:21:46.518 5118 Level-0 table #12: started
+2026/02/08-10:21:46.549 5118 Level-0 table #12: 1543603 bytes OK
+2026/02/08-10:21:46.551 5118 Delete type=0 #8
+2026/02/08-10:21:46.554 5118 Compacting 1@0 + 1@1 files
+2026/02/08-10:21:46.647 5118 Generated table #13@0: 51781 keys, 2214689 bytes
+2026/02/08-10:21:46.678 5118 Generated table #14@0: 13147 keys, 680605 bytes
+2026/02/08-10:21:46.678 5118 Compacted 1@0 + 1@1 files => 2895294 bytes
+2026/02/08-10:21:46.679 5118 compacted to: files[ 0 2 1 0 0 0 0 ]
+2026/02/08-10:21:47.028 5118 Level-0 table #16: started
+2026/02/08-10:21:47.073 5118 Level-0 table #16: 1222208 bytes OK
+2026/02/08-10:21:47.076 5118 Delete type=2 #10
+2026/02/08-10:21:47.076 5118 Delete type=0 #11
+2026/02/08-10:21:47.076 5118 Delete type=2 #12
+2026/02/08-10:21:47.185 5118 Compacting 1@0 + 2@1 files
+2026/02/08-10:21:47.343 5118 Generated table #17@0: 58946 keys, 2222559 bytes
+2026/02/08-10:21:47.475 5118 Generated table #18@0: 20502 keys, 1341371 bytes
+2026/02/08-10:21:47.475 5118 Compacted 1@0 + 2@1 files => 3563930 bytes
+2026/02/08-10:21:47.476 5118 compacted to: files[ 0 2 1 0 0 0 0 ]
+2026/02/08-10:22:10.034 4094 Compacting 1@1 + 1@2 files
+2026/02/08-10:22:10.077 4094 Generated table #19@1: 11813 keys, 1838418 bytes
+2026/02/08-10:22:10.077 4094 Compacted 1@1 + 1@2 files => 1838418 bytes
+2026/02/08-10:22:10.077 4094 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/08-10:22:10.078 4094 Delete type=2 #5
+2026/02/08-10:22:10.078 4094 Delete type=2 #13
+2026/02/08-10:22:10.078 4094 Delete type=2 #14
+2026/02/08-10:22:10.078 4094 Delete type=2 #16
+2026/02/08-10:22:10.078 4094 Delete type=2 #17
+2026/02/08-10:22:14.383 5118 Level-0 table #21: started
+2026/02/08-10:22:14.412 5118 Level-0 table #21: 1052172 bytes OK
+2026/02/08-10:22:14.414 5118 Delete type=0 #15
+2026/02/08-10:22:14.416 5118 Compacting 1@0 + 1@1 files
+2026/02/08-10:22:14.485 5118 Generated table #22@0: 47900 keys, 1888025 bytes
+2026/02/08-10:22:14.485 5118 Compacted 1@0 + 1@1 files => 1888025 bytes
+2026/02/08-10:22:14.485 5118 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/08-10:22:14.486 5118 Delete type=2 #18
+2026/02/08-10:22:14.486 5118 Delete type=2 #21
+2026/02/08-10:22:19.426 5118 Compacting 1@1 + 1@2 files
+2026/02/08-10:22:19.462 5118 Generated table #23@1: 14144 keys, 2169221 bytes
+2026/02/08-10:22:19.502 5118 Generated table #24@1: 28471 keys, 1369399 bytes
+2026/02/08-10:22:19.502 5118 Compacted 1@1 + 1@2 files => 3538620 bytes
+2026/02/08-10:22:19.502 5118 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/02/08-10:22:19.503 5118 Delete type=2 #19
+2026/02/08-10:22:19.503 5118 Delete type=2 #22

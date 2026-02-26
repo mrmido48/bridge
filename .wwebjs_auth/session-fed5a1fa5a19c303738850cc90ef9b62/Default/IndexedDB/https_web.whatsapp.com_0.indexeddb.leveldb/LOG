@@ -1,0 +1,5 @@
+2026/02/08-17:42:04.186 3878 Creating DB C:\Users\eddin\Desktop\snopdesks\whatsapp-bridge\.wwebjs_auth\session-fed5a1fa5a19c303738850cc90ef9b62\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/02/08-17:42:04.236 3878 Reusing MANIFEST C:\Users\eddin\Desktop\snopdesks\whatsapp-bridge\.wwebjs_auth\session-fed5a1fa5a19c303738850cc90ef9b62\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/08-19:32:54.110 653c Level-0 table #5: started
+2026/02/08-19:32:54.175 653c Level-0 table #5: 1208090 bytes OK
+2026/02/08-19:32:54.182 653c Delete type=0 #3

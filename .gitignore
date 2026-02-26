@@ -1,0 +1,11 @@
+# Dependencies (Railway/Render run npm install on deploy)
+node_modules/
+
+# Secrets - set these as env vars on Railway/Render
+.env
+.env.*
+!.env.example
+
+# WhatsApp session data (not for git)
+.wwebjs_auth/
+.wwebjs_cache/

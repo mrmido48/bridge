@@ -1,0 +1,35 @@
+2026/02/08-09:36:59.143 4e9c Creating DB C:\Users\eddin\Desktop\snopdesks\whatsapp-bridge\.wwebjs_auth\session-08d8bfeebe2a40a19065c9e746fbc5e9\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/02/08-09:36:59.152 4e9c Reusing MANIFEST C:\Users\eddin\Desktop\snopdesks\whatsapp-bridge\.wwebjs_auth\session-08d8bfeebe2a40a19065c9e746fbc5e9\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/08-09:40:04.097 29a8 Level-0 table #5: started
+2026/02/08-09:40:04.168 29a8 Level-0 table #5: 1012937 bytes OK
+2026/02/08-09:40:04.171 29a8 Delete type=0 #3
+2026/02/08-09:40:20.177 4e9c Level-0 table #7: started
+2026/02/08-09:40:20.247 4e9c Level-0 table #7: 1214743 bytes OK
+2026/02/08-09:40:20.251 4e9c Delete type=0 #4
+2026/02/08-09:40:20.261 4e9c Compacting 1@1 + 1@2 files
+2026/02/08-09:40:20.539 4e9c Generated table #8@1: 22520 keys, 1252403 bytes
+2026/02/08-09:40:20.539 4e9c Compacted 1@1 + 1@2 files => 1252403 bytes
+2026/02/08-09:40:20.541 4e9c compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/08-09:40:20.542 4e9c Delete type=2 #5
+2026/02/08-09:40:20.542 4e9c Delete type=2 #7
+2026/02/08-09:40:20.878 4e9c Level-0 table #10: started
+2026/02/08-09:40:20.974 4e9c Level-0 table #10: 1516660 bytes OK
+2026/02/08-09:40:20.976 4e9c Delete type=0 #6
+2026/02/08-09:40:20.985 4e9c Compacting 1@1 + 1@2 files
+2026/02/08-09:40:21.155 4e9c Generated table #11@1: 20814 keys, 2183388 bytes
+2026/02/08-09:40:21.206 4e9c Generated table #12@1: 11317 keys, 568656 bytes
+2026/02/08-09:40:21.206 4e9c Compacted 1@1 + 1@2 files => 2752044 bytes
+2026/02/08-09:40:21.207 4e9c compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/02/08-09:40:22.430 4e9c Level-0 table #14: started
+2026/02/08-09:40:22.609 4e9c Level-0 table #14: 1145092 bytes OK
+2026/02/08-09:40:22.610 4e9c Delete type=2 #8
+2026/02/08-09:40:22.611 4e9c Delete type=0 #9
+2026/02/08-09:40:22.611 4e9c Delete type=2 #10
+2026/02/08-09:40:24.221 4e9c Compacting 1@1 + 2@2 files
+2026/02/08-09:40:24.437 4e9c Generated table #15@1: 13507 keys, 2170382 bytes
+2026/02/08-09:40:24.689 4e9c Generated table #16@1: 17704 keys, 959296 bytes
+2026/02/08-09:40:24.689 4e9c Compacted 1@1 + 2@2 files => 3129678 bytes
+2026/02/08-09:40:24.690 4e9c compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/02/08-09:40:24.691 4e9c Delete type=2 #11
+2026/02/08-09:40:24.692 4e9c Delete type=2 #12
+2026/02/08-09:40:24.692 4e9c Delete type=2 #14
