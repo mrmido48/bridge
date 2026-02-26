@@ -1,9 +1,0 @@
-2026/02/17-10:29:45.022 21f0 Reusing MANIFEST C:\wamp64\www\ai1\whatsapp-bridge\.wwebjs_auth\session-755dc6ddb6a71f39d0215bff6377c121\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/17-10:29:45.029 21f0 Recovering log #3
-2026/02/17-10:29:45.031 21f0 Reusing old log C:\wamp64\www\ai1\whatsapp-bridge\.wwebjs_auth\session-755dc6ddb6a71f39d0215bff6377c121\Default\Local Storage\leveldb/000003.log 
-2026/02/17-11:19:53.578 21f0 Level-0 table #5: started
-2026/02/17-11:19:53.592 21f0 Level-0 table #5: 15326 bytes OK
-2026/02/17-11:19:53.600 21f0 Delete type=0 #3
-2026/02/17-14:20:01.391 2598 Level-0 table #7: started
-2026/02/17-14:20:01.411 2598 Level-0 table #7: 13321 bytes OK
-2026/02/17-14:20:01.423 2598 Delete type=0 #4
